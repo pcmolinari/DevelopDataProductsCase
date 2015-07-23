@@ -1,0 +1,33 @@
+User Manual
+
+Objective of the application
+========================================================
+
+This is an application made to discover fraudulent Credit card expenses  
+
+- The application was made to review a set of expenses made with credit card in a ficticious company and asses whether some fraud was commited.
+- This application has preloaded data
+- It uses 3 tabs with  different views of the same data
+- Important: All data is ficticious
+
+
+First Tab: Review of expenses by variable
+========================================================
+
+When the user changes the variable the graphic will show a bar per individual transaction grouped by that variable selected
+
+
+
+Second Tab:Cluster analysis
+========================================================
+
+The cluster analysis groups the similar transactions (clusters) based on two variables (amount of the expense and tax paid in the transaction). This cluster groups in as many cluster as the user deems necessary. And the clustered transactions will show the same coluour
+
+
+
+
+Third Tab:View of the database
+========================================================
+
+This tab is a full view of the database where transactions can be searched or filtered for individual or gropued analysis.
+
